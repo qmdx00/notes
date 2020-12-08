@@ -1,7 +1,3 @@
-# ignore all files
-*
-
-# files note ignore
-!**/*.md
-!.gitignore
-!/docs/*
+# ignore rules
+**/.DS_Store
+**/.vscode/
