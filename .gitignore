@@ -1,0 +1,7 @@
+# ignore all files
+*
+
+# files note ignore
+!**/*.md
+!.gitignore
+!/docs/*
