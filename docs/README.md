@@ -14,9 +14,9 @@
 
 - [常用命令](command/)
     - [Docker 相关](command/docker)
+    - [Git 相关](command/git)
+    - [VIM 相关](command/vim)
+
 
 - [配置文件](config/)
     - [.zshrc](config/zshrc)
-
-
-
