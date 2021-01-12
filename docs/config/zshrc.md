@@ -18,7 +18,6 @@ proxy(){
   all_proxy="socks5://127.0.0.1:1086"
   echo "HTTP PROXY ON"
 }
-
 noproxy(){
   unset http_proxy
   unset https_proxy
